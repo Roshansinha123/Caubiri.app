@@ -1,5 +1,14 @@
 # Introduction
+Caubiri is a mission-driven travel app focused on women’s safety. It provides:
 
+📍 GPS tracking & real-time monitoring
+
+👩‍✈️ Female driver options for secure late-night travel
+
+⚙️ A robust stack with front-end functionality and database integration
+
+Designing and developing the app’s core features, ensuring both usability and reliability.
+What makes Caubiri special is its focus on leveraging technology for social impact—building safety and trust into everyday travel.
 
 
 # React + Vite
